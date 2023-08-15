@@ -39,6 +39,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -55,7 +56,7 @@
       <updated>1692118619608</updated>
       <workItem from="1692118621279" duration="78000" />
       <workItem from="1692118719078" duration="420000" />
-      <workItem from="1692119155456" duration="841000" />
+      <workItem from="1692119155456" duration="1391000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1692119388611</created>
