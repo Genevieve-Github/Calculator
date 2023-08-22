@@ -11,7 +11,7 @@ It was written under Intellij Idea, with the Swing-AWT graphic interface and cod
 ### Executing program
 
 ```shell
-java -jar Calculatrice.jar
+java -jar CalculatriceEntrainement.jar
 ```
 
 ## Authors
